@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "覚林寺",
+        "description": "毘沙門天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727029,
+          35.637566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妙円寺",
+        "description": "福禄寿\n寿老人",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722909,
+          35.635099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蟠竜寺",
+        "description": "弁財天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708478,
+          35.630643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞聖寺",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725258,
+          35.634628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大円寺",
+        "description": "大黒天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713789,
+          35.632474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龍泉寺",
+        "description": "恵比寿",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709079,
+          35.62882
+        ]
+      }
+    }
+  ]
+}
